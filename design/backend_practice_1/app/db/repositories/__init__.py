@@ -1,0 +1,1 @@
+from backend_practice_1.app.db.repositories.item_repository import ItemRepository
